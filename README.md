@@ -28,6 +28,5 @@ I believe the best way to learn is by **building things and staying curious**.
 
 ## Connect with me
 
-- LinkedIn: (Diogo Bittar Pedro: )
+- LinkedIn: (Diogo Bittar Pedro: https://www.linkedin.com/in/diogo-bittar-pedro-8029a1352?utm_source=share_via&utm_content=profile&utm_medium=member_ios )
 - GitHub: you're already here 😄!--
-**diogo-bittar/diogo-bittar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

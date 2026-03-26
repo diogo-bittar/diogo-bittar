@@ -13,7 +13,9 @@ I believe the best way to learn is by **building things and staying curious**.
 
 ## Currently learning
 
-- Python
+- Python 
+            <i class="devicon-aarch64-plain "></i>
+          
 - JavaScript
 - CSS
 - HTML

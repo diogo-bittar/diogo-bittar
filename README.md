@@ -13,9 +13,11 @@ I believe the best way to learn is by **building things and staying curious**.
 
 ## Currently learning
 
-- Python
-- HTML & CSS
-- JavaScript
+- <img src="https://cdn.jsdelivr.net" width="20" height="20" /> **Python**
+- <img src="https://cdn.jsdelivr.net" width="20" height="20" /> / <img src="https://cdn.jsdelivr.net" width="20" height="20" /> **HTML & CSS**
+- <img src="https://cdn.jsdelivr.net" width="20" height="20" /> **JavaScript**
+**JavaScript**
+
 - Programming logic
 - Software development fundamentals
 

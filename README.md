@@ -1,5 +1,5 @@
 # Hi, I'm Diogo 👋
-### Building things to learn things.
+### < turning coffee into bugs since 2024 />
 
 ---
 

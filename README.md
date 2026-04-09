@@ -1,31 +1,41 @@
-## Hi, I'm Diogo 👋
+# Hi, I'm Diogo 👋
+### Building things to learn things.
+
+---
 
 🎓 Software Engineering student  
-💻 Learning programming and technology step by step  
-🚀 Interested in building projects and improving my skills every day
+💻 Focused on fundamentals and real projects  
+🚀 Learning by doing, every day  
+
+---
 
 ## About me
 
-I'm currently studying **Software Engineering** and exploring the world of programming.  
-Right now I'm focusing on learning the fundamentals and building small projects to improve my logic and coding skills.
+I'm studying **Software Engineering** and building projects to sharpen my logic and coding skills.  
+I believe the best way to learn is by **getting your hands dirty**.
 
-I believe the best way to learn is by **building things and staying curious**.
+---
 
-## Currently learning
+## Tech Stack
 
-- Python       
-- JavaScript
-- CSS
-- HTML
-- Programming logic
-- Software development fundamentals
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
+---
 
 ## Goals
 
-- Improve my programming skills
-- Build real projects
-- Contribute to open source
-- Grow as a developer
+- Build real, useful projects  
+- Contribute to open source  
+- Grow consistently as a developer  
+
+---
 
 ## Connect with me
 

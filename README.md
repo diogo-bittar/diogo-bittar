@@ -1,5 +1,5 @@
 # Hi, I'm Diogo 👋
-### < turning coffee into bugs since 2024 />
+### Building things to learn things.
 
 ---
 
@@ -39,5 +39,5 @@ I believe the best way to learn is by **getting your hands dirty**.
 
 ## Connect with me
 
-- LinkedIn: (Diogo Bittar Pedro: https://www.linkedin.com/in/diogo-bittar-pedro-8029a1352?utm_source=share_via&utm_content=profile&utm_medium=member_ios )
+- LinkedIn: https://bit.ly/47N5vef
 - GitHub: you're already here 😄!--

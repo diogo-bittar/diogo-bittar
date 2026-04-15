@@ -18,7 +18,7 @@ I believe the best way to learn is by **getting your hands dirty**.
 
 ## Tech Stack
 
-table>
+<table style="border-collapse: collapse;">
   <tr>
     <td style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40">
@@ -34,6 +34,7 @@ table>
     </td>
   </tr>
 </table>
+
 ---
 
 ## Goals

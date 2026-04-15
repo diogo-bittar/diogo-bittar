@@ -3,9 +3,9 @@
 
 ---
 
-🎓 Software Engineering student  
-💻 Focused on fundamentals and real projects  
-🚀 Learning by doing, every day  
+Software Engineering student  
+Focused on fundamentals and real projects  
+Learning by doing, every day  
 
 ---
 

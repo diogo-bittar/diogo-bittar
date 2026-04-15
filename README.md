@@ -37,14 +37,6 @@ I believe the best way to learn is by **getting your hands dirty**.
 
 ---
 
-## Goals
-
-- Build real, useful projects  
-- Contribute to open source  
-- Grow consistently as a developer  
-
----
-
 ## Connect with me
 
 - LinkedIn: https://bit.ly/47N5vef

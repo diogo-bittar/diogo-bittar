@@ -23,9 +23,6 @@ I believe the best way to learn is by **getting your hands dirty**.
     <td style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40">
     </td>
-    <td style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40">
-    </td>
   </tr>
 </table>
 

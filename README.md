@@ -1,25 +1,32 @@
 # Hi, I'm Diogo 👋
-### Building things to learn things.
+
+> Building things to learn things.
+
 ---
-Software Engineering student  
-Focused on fundamentals and real projects  
-Learning by doing, every day  
+
+Software Engineering student at FIAP
+Focused on Back-End development
+Learning by doing, every day
+
 ---
+
 ## About me
-I'm studying **Software Engineering** and building projects to sharpen my logic and coding skills.  
-I believe the best way to learn is by **getting your hands dirty**.
+
+I'm studying Software Engineering and building projects to sharpen my logic and coding skills.
+I believe the best way to learn is by getting your hands dirty.
+
 ---
+
 ## Tech Stack
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40">
-    </td>
-  </tr>
-</table>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## Connect with me
 
-- LinkedIn: https://bit.ly/47N5vef
-- GitHub: you're already here 😄!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-bittar-pedro-8029a1352/)

@@ -25,9 +25,5 @@ I believe the best way to learn is by getting your hands dirty.
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/diogo-bittar-pedro-8029a1352/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:bittard58@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
 </a>

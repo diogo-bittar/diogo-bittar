@@ -31,9 +31,8 @@ I believe the best way to learn is by getting your hands dirty.
   <a href="https://www.linkedin.com/in/diogo-bittar-pedro-8029a1352/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:bittard58@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+<a href="mailto:bittard58@gmail.com?subject=Hello&body=Hi Diogo!">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 ---

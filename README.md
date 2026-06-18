@@ -16,11 +16,13 @@ I'm studying Software Engineering and building projects to sharpen my logic and 
 I believe the best way to learn is by getting your hands dirty.
 
 --- 
+
 ## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git&perline=5" />
 </p>
+
 ---
 
 ## Connect with me
@@ -28,3 +30,5 @@ I believe the best way to learn is by getting your hands dirty.
 <a href="https://www.linkedin.com/in/diogo-bittar-pedro-8029a1352/">
   <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
 </a>
+
+---

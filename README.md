@@ -6,7 +6,7 @@
 
 Software Engineering student at FIAP  
 Focused on Back-End development  
-Learning by doing, every day
+Learning through practice.
 
 ---
 
